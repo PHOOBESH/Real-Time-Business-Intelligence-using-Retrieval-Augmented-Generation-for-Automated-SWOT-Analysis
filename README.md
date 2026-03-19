@@ -1,5 +1,4 @@
 
-
 ```markdown id="swotrag01"
 # 📊 Real-Time Business Intelligence Platform  
 ### 🔍 SWOT, Sentiment & Financial Analysis using RAG + Cohere
